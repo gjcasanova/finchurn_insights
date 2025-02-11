@@ -20,3 +20,6 @@ pytest  # https://github.com/pytest-dev/pytest
 
 # Environment
 python-dotenv  # https://github.com/theskumar/python-dotenv
+
+# Kaggle
+kaggle  # https://github.com/Kaggle/kaggle-api
